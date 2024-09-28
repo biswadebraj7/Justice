@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "title":"Business Law",
+        "describe":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+        "image":"https://i.ibb.co.com/qY82QcL/Vector.png",
+        "icon":"https://i.ibb.co.com/88Bk7fx/Vector.png"
+    },
+    {
+        "id":2,
+        "title":"Criminal Law",
+        "describe":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+        "image":"https://i.ibb.co.com/rxG1WPS/Vector-1.png",
+        "icon":"https://i.ibb.co.com/88Bk7fx/Vector.png"
+    },
+    {
+        "id":3,
+        "title":"Child Support",
+        "describe":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+        "image":"https://i.ibb.co.com/rwcbYy6/rect2274.png",
+        "icon":"https://i.ibb.co.com/88Bk7fx/Vector.png"
+    },
+    {
+        "id":4,
+        "title":"Education Law",
+        "describe":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+        "image":"https://i.ibb.co.com/qY82QcL/Vector.png",
+        "icon":"https://i.ibb.co.com/88Bk7fx/Vector.png"
+    },
+    {
+        "id":5,
+        "title":"Divorce Law",
+        "describe":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+        "image":"https://i.ibb.co.com/qY82QcL/Vector.png",
+        "icon":"https://i.ibb.co.com/thzDW12/Group-16.png"
+    },
+    {
+        "id":6,
+        "title":"Tax Law",
+        "describe":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+        "image":"https://i.ibb.co.com/b6dLfkL/Group-13.png",
+        "icon":"https://i.ibb.co.com/88Bk7fx/Vector.png"
+    }
+    
+    
+    
+]

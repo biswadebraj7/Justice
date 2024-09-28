@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "image":"https://i.ibb.co.com/cb3nQK7/Vector-1.png",
+        "title":"Address",
+        "name":"A108 Adam Street,",
+        "times":"New York, NY 535022"
+
+    },
+
+    {
+        "id":2,
+        "image":"https://i.ibb.co.com/hy7VyNF/Frame.png",
+        "title":"Call Us",
+        "name":"+88 01750 00 00 00",
+        "times":"+88 01750 00 00 00"
+
+    },
+    {
+        "id":3,
+        "image":"https://i.ibb.co.com/xhsSgjY/Vector-2.png",
+        "title":"Address",
+        "name":"info@gmail.com",
+        "times":"info@gmail.com"
+
+    },
+    {
+        "id":4,
+        "image":"https://i.ibb.co.com/4jc29BM/Vector-3.png",
+        "title":"Address",
+        "name":"Mon-Fri: 9AM to 5PM",
+        "times":"Sunday: 9AM to 1 PM"
+
+    }
+]
